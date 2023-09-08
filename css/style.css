@@ -68,7 +68,7 @@ body{
 }
 
 .hsr-hero-image{
-    background-image : url('../assets/images/hero-image.webp');
+    background-image : url('../images/hero-image.webp');
     color : #ffffff
     height : 95vh;
     width : auto;
